@@ -1,0 +1,35 @@
+[33mcommit c5ee12ce4b7a7cca5ccaec7ae0b6d2fd8123d7fb[m
+Author: walter <yongdu90@gmail.com>
+Date:   Fri Jun 12 01:26:17 2015 +0200
+
+    git tracks all change
+
+[33mcommit cba2a416f0b623f5f6d22a4f28e84375c597f3cb[m
+Author: walter <yongdu90@gmail.com>
+Date:   Fri Jun 12 01:18:52 2015 +0200
+
+    git tracks change
+
+[33mcommit 098385813633a6deba957a1644dc5d21452940f3[m
+Author: walter <yongdu90@gmail.com>
+Date:   Fri Jun 12 00:32:17 2015 +0200
+
+    understand how stage work
+
+[33mcommit cd17dd4c1dd63732e3362e1942a8bb3e3332cee6[m
+Author: walter <yongdu90@gmail.com>
+Date:   Thu Jun 11 23:54:26 2015 +0200
+
+    add Git readme
+
+[33mcommit 84f784c22aea67bd5085a933863fd52ee0937d7a[m
+Author: walter <yongdu90@gmail.com>
+Date:   Thu Jun 11 23:48:19 2015 +0200
+
+    add welcom
+
+[33mcommit 278af18bc9f2235d7f6ce0f525606572d11acb7e[m
+Author: walter <yongdu90@gmail.com>
+Date:   Thu Jun 11 18:31:40 2015 +0200
+
+    wrote a reade file
