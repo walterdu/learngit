@@ -6,3 +6,4 @@ Git manage the tracks
 Creating branch is a new and simple!
 fast forward!
 Coopertate!
+This is from Bo!
