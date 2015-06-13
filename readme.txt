@@ -3,4 +3,5 @@ Git is a free software under GPL.
 This is the first vesion of Git!
 Git has a mutable index called stage! 
 Git manage the tracks!
-Creating a branch is so quick!
+Creating a branch is so quick and simple!
+
